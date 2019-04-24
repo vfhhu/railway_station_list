@@ -10,6 +10,10 @@ https://raw.githubusercontent.com/vfhhu/railway_station_list/master/data1.json
 https://raw.githubusercontent.com/vfhhu/railway_station_list/master/data2.json
 
 
+正反查json<br>
+stn.js
+檔案連結:<br>
+https://raw.githubusercontent.com/vfhhu/railway_station_list/master/stn.json
 
 新台鐵網站分區站名代碼表<br>
 area_station.js<br>
