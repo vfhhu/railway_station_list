@@ -21,3 +21,9 @@ area_station.js<br>
 
 檔案連結:<br>
 https://raw.githubusercontent.com/vfhhu/railway_station_list/master/area.json
+
+
+新台鐵網站分區站名經緯度<br>
+latlon.js<br>
+檔案連結:<br>
+https://raw.githubusercontent.com/vfhhu/railway_station_list/master/latlon.json
